@@ -1,3 +1,4 @@
+
 -- SQL Window Functions and CTE Assignment
 -- Compatible with PostgreSQL
 
